@@ -18,7 +18,7 @@ branches:
 deploy:
     provider: cloudfoundry
     api: https://api.system.eu01.cloud.schwarz
-    username: Fabian.Kau@mail.schwarz
-    password: Schwarz2020A
+    username: student
+    password: WuCnyBLcEKcmtL1\@
     organization: cf-training
     space: B6
